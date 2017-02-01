@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alex Shook</title>
-    <link>http://alexshook.com/post/</link>
-    <description>Recent content in Posts on Alex Shook</description>
+    <title>Promises Promises on Alex Shook</title>
+    <link>http://alexshook.com/categories/promises-promises/</link>
+    <description>Recent content in Promises Promises on Alex Shook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:27:15 -0500</lastBuildDate>
-    <atom:link href="http://alexshook.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://alexshook.com/categories/promises-promises/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Learn Ruby the Hard Way Again</title>
@@ -26,20 +26,6 @@
 &lt;p&gt;For real this year.&lt;/p&gt;
 
 &lt;p&gt;Seriously.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://alexshook.com/hello-world/</link>
-      <pubDate>Thu, 24 Nov 2016 22:20:25 -0400</pubDate>
-      
-      <guid>http://alexshook.com/hello-world/</guid>
-      <description>&lt;p&gt;My first code blog was built on Octopress 2. It was a great starter blog, but I&amp;rsquo;ve been wanting to make some changes for a while. I got tired of waiting for Octopress 3, so I&amp;rsquo;m relaunching with &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which looks like it has an active community and some great documentation.&lt;/p&gt;
-
-&lt;p&gt;I had planned on migrating my posts, but decided on a fresh start instead.&lt;/p&gt;
-
-&lt;p&gt;Hello, world.&lt;/p&gt;
 </description>
     </item>
     
