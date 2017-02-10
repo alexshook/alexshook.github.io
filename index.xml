@@ -44,6 +44,20 @@
     </item>
     
     <item>
+      <title>About</title>
+      <link>http://alexshook.com/about/</link>
+      <pubDate>Wed, 23 Nov 2016 22:20:25 -0400</pubDate>
+      
+      <guid>http://alexshook.com/about/</guid>
+      <description>&lt;p&gt;Hello! I’m Alex. I write code. Mostly Ruby, JavaScript when I need something fancy in a browser. ClojureScript for fun and profit. This blog uses Hugo and I keep meaning to make more than a terminal app in Go.&lt;/p&gt;
+
+&lt;p&gt;I’ve been writing code ever since I turned eleven and an owl didn’t deliver my Hogwarts letter. I never got a toad &lt;del&gt;and a phoenix feather wand&lt;/del&gt; (Pottermore says it&amp;rsquo;s apple/phoenix feather), but creating with code is close to magical.  Still planning on a trip to the wizarding world at Universal Studios, though.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I &lt;a href=&#34;https://twitter.com/alexshook&#34;&gt;tweet&lt;/a&gt;. Generally better at &lt;a href=&#34;https://www.instagram.com/alexshook/&#34;&gt;photos&lt;/a&gt;. Varied interests: fashion, food, skylines, SAD lamps, Eggs Benedict, aloe plants. Fan of coffee and Wednesday Addams.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://alexshook.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
