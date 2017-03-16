@@ -1,10 +1,15 @@
 /* general */
 
+/* font */
+html {
+  font-family: "Lato", sans-serif;
+}
+
 /* sidebar styling */
 .sidebar {
-  font-family: "Lato", sans-serif;
   font-size: 0.75rem;
   text-align: center;
+  background-color: #FFF;
 }
 
 .sidebar-about h1 {
@@ -22,13 +27,19 @@
   padding: 0 0.25rem;
 }
 
+.sidebar,
+.sidebar a,
+.sidebar-about h1 p,
+.sidebar-nav-item i {
+  color: #000;
+}
 
 /* hyde overrides*/
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right: 1rem;
-    left: 1rem;
+    right: 0.5rem;
+    left: 0.5rem;
     top: 50%;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
