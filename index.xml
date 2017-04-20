@@ -6,8 +6,52 @@
     <description>Recent content on Alex Shook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2017 00:27:15 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 20:20:25 -0400</lastBuildDate>
     <atom:link href="http://alexshook.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>http://alexshook.com/projects/</link>
+      <pubDate>Wed, 19 Apr 2017 20:20:25 -0400</pubDate>
+      
+      <guid>http://alexshook.com/projects/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://alexshook.com/earthquakr&#34;&gt;earthquakr&lt;/a&gt; · &lt;a href=&#34;https://github.com/alexshook/earthquakr&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An experiment with Marionette, CoffeeScript, and the &lt;a href=&#34;http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php&#34;&gt;USGS API&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;CoffeeScript | Marionette | jQuery | HTML | Skeleton&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://photidian.herokuapp.com/&#34;&gt;Photidian&lt;/a&gt; · &lt;a href=&#34;https://github.com/alexshook/photidian&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The average laptop/desktop owner spends five hours per day in front of a computer screen. Photidian is a visual diary of those hours- take a photo with your webcam every day and document your life in front of the computer.&lt;/p&gt;
+
+&lt;p&gt;Rails 4 | Backbone.js | JavaScript | jQuery | AWS S3 | PostgreSQL | HTML5 | HTML5 Canvas | Pure&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ratemylunch.herokuapp.com/&#34;&gt;Rate My Lunch&lt;/a&gt; · &lt;a href=&#34;https://github.com/alexshook/ratemylunch&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Inspiring employees to choose the best lunch options for their personal goals. Created during the &lt;a href=&#34;https://www.hackerleague.org/hackathons/hack-slash-slash-dining-nyc&#34;&gt;Food+Tech Connect Hack//Dining hackathon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Rails 4 | jQuery | jQueryUI | PostgreSQL | Foundation&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://trippindots.herokuapp.com/&#34;&gt;Trippin&amp;rsquo; Dots&lt;/a&gt; · &lt;a href=&#34;https://github.com/alexshook/trippindots&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Analyzing songs with the Echo Nest API and displaying the results visually. Built for the &lt;a href=&#34;http://monthlymusichackathon.org/&#34;&gt;Monthly Music Hackathon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Rails 4 | Backbone.js | JavaScript | jQuery | Echo Nest API | PostgreSQL&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;open-source-contributions:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Open Source Contributions&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/CodeMontageHQ/codemontage/commit/f3bd04c6db82cb297320ba44fab703e375b9d1e4&#34;&gt;CodeMontage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;CodeMontage empowers coders to improve their impact on the world.&lt;/p&gt;
+
+&lt;p&gt;Rails 3 | Foundation | CSS&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learn Ruby the Hard Way Again</title>
@@ -53,17 +97,8 @@
 
 &lt;p&gt;I’ve been writing code ever since I turned eleven and an owl didn’t deliver my Hogwarts letter. I never got a toad &lt;del&gt;and a phoenix feather wand&lt;/del&gt; (Pottermore says it&amp;rsquo;s apple/phoenix feather), but creating with code is close to magical.  Still planning on a trip to the wizarding world at Universal Studios, though.&lt;/p&gt;
 
-&lt;p&gt;Sometimes I &lt;a href=&#34;https://twitter.com/alexshook&#34;&gt;tweet&lt;/a&gt;. Generally better at &lt;a href=&#34;https://www.instagram.com/alexshook/&#34;&gt;photos&lt;/a&gt;. Varied interests: fashion, food, skylines, SAD lamps, Eggs Benedict, aloe plants. Fan of coffee and Wednesday Addams.&lt;/p&gt;
+&lt;p&gt;Sometimes I &lt;a href=&#34;https://twitter.com/alexshook&#34;&gt;tweet&lt;/a&gt;. Generally better at &lt;a href=&#34;https://www.instagram.com/alexshook/&#34;&gt;photos&lt;/a&gt;. Varied interests: fashion, food, New York, SAD lamps, Eggs Benedict, aloe plants. Fan of coffee and Wednesday Addams.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://alexshook.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://alexshook.com/projects/</guid>
-      <description></description>
     </item>
     
   </channel>
