@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://alexshook.com/</loc>
-    <lastmod>2017-04-19T20:20:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://alexshook.com/projects/</loc>
@@ -25,6 +20,54 @@
   <url>
     <loc>http://alexshook.com/about/</loc>
     <lastmod>2016-11-23T22:20:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/</loc>
+    <lastmod>2017-04-19T20:20:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/categories/blogging/</loc>
+    <lastmod>2016-11-24T22:20:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/categories/</loc>
+    <lastmod>2016-11-24T22:20:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/categories/learn-something/</loc>
+    <lastmod>2017-02-01T00:27:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/categories/origin-story/</loc>
+    <lastmod>2016-11-24T22:20:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/post/</loc>
+    <lastmod>2017-02-01T00:27:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/categories/promises-promises/</loc>
+    <lastmod>2017-02-01T00:27:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/categories/ruby/</loc>
+    <lastmod>2017-02-01T00:27:15-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

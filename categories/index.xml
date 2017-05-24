@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Alex Shook</title>
+    <link>http://alexshook.com/categories/</link>
+    <description>Recent content in Categories on Alex Shook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Nov 2016 22:20:25 -0400</lastBuildDate>
+    
+	<atom:link href="http://alexshook.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogging</title>
+      <link>http://alexshook.com/categories/blogging/</link>
+      <pubDate>Thu, 24 Nov 2016 22:20:25 -0400</pubDate>
+      
+      <guid>http://alexshook.com/categories/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Something</title>
+      <link>http://alexshook.com/categories/learn-something/</link>
+      <pubDate>Wed, 01 Feb 2017 00:27:15 -0500</pubDate>
+      
+      <guid>http://alexshook.com/categories/learn-something/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin Story</title>
+      <link>http://alexshook.com/categories/origin-story/</link>
+      <pubDate>Thu, 24 Nov 2016 22:20:25 -0400</pubDate>
+      
+      <guid>http://alexshook.com/categories/origin-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promises Promises</title>
+      <link>http://alexshook.com/categories/promises-promises/</link>
+      <pubDate>Wed, 01 Feb 2017 00:27:15 -0500</pubDate>
+      
+      <guid>http://alexshook.com/categories/promises-promises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>http://alexshook.com/categories/ruby/</link>
+      <pubDate>Wed, 01 Feb 2017 00:27:15 -0500</pubDate>
+      
+      <guid>http://alexshook.com/categories/ruby/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

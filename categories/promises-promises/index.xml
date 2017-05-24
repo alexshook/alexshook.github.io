@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:27:15 -0500</lastBuildDate>
-    <atom:link href="http://alexshook.com/categories/promises-promises/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://alexshook.com/categories/promises-promises/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Learn Ruby the Hard Way Again</title>
@@ -15,18 +17,8 @@
       <pubDate>Wed, 01 Feb 2017 00:27:15 -0500</pubDate>
       
       <guid>http://alexshook.com/learn-ruby-the-hard-way-again/</guid>
-      <description>&lt;p&gt;More than a year ago I &lt;a href=&#34;https://twitter.com/alexshook/status/685273352987082752&#34;&gt;tweeted&lt;/a&gt; (with a broken link to my old Octopress) about going through Learn Ruby the Hard Way again because I never finished it. I went up to #44 and stopped because I have no ideas for games, and #45 is the make a game exercise.&lt;/p&gt;
-
-&lt;p&gt;I started again last fall and am &lt;a href=&#34;https://github.com/alexshook/learn_ruby_the_hard_way&#34;&gt;up to #11&lt;/a&gt;. At least I&amp;rsquo;ve learned to keep the completed exercises in a GitHub repo so I don&amp;rsquo;t lose them in the depths of my computer.&lt;/p&gt;
-
-&lt;p&gt;This must be the fourth or fifth time I&amp;rsquo;ve gone through 1-11. In 2016 I got through #22 or so but I can&amp;rsquo;t find those files anywhere.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve decided that February will be Ruby + Vim month. I need to get off Sublime vi mode (too slow once I started coding React) and get through Learn Ruby the Hard Way once and for all.&lt;/p&gt;
-
-&lt;p&gt;For real this year.&lt;/p&gt;
-
-&lt;p&gt;Seriously.&lt;/p&gt;
-</description>
+      <description>More than a year ago I tweeted (with a broken link to my old Octopress) about going through Learn Ruby the Hard Way again because I never finished it. I went up to #44 and stopped because I have no ideas for games, and #45 is the make a game exercise.
+I started again last fall and am up to #11. At least I&amp;rsquo;ve learned to keep the completed exercises in a GitHub repo so I don&amp;rsquo;t lose them in the depths of my computer.</description>
     </item>
     
   </channel>
