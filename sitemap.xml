@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://alexshook.com/some-thoughts-on-learning-clojure/</loc>
+    <lastmod>2017-06-22T11:39:26-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://alexshook.com/how-i-became-a-software-developer-part-1/</loc>
     <lastmod>2017-05-23T22:32:14-04:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>http://alexshook.com/</loc>
-    <lastmod>2017-05-23T22:32:14-04:00</lastmod>
+    <lastmod>2017-06-22T11:39:26-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,6 +51,12 @@
   </url>
   
   <url>
+    <loc>http://alexshook.com/categories/clojure/</loc>
+    <lastmod>2017-06-22T11:39:26-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://alexshook.com/categories/how-i-became-a-software-developer/</loc>
     <lastmod>2017-05-23T22:32:14-04:00</lastmod>
     <priority>0</priority>
@@ -53,7 +64,7 @@
   
   <url>
     <loc>http://alexshook.com/categories/learn-something/</loc>
-    <lastmod>2017-02-01T00:27:15-05:00</lastmod>
+    <lastmod>2017-06-22T11:39:26-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,7 +76,7 @@
   
   <url>
     <loc>http://alexshook.com/post/</loc>
-    <lastmod>2017-05-23T22:32:14-04:00</lastmod>
+    <lastmod>2017-06-22T11:39:26-04:00</lastmod>
     <priority>0</priority>
   </url>
   
