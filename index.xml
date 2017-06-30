@@ -46,14 +46,10 @@ Over the past few years a bunch of people have told me that I would probably lik
       <pubDate>Wed, 19 Apr 2017 20:20:25 -0400</pubDate>
       
       <guid>http://alexshook.com/projects/</guid>
-      <description>earthquakr · GitHub
-An experiment with Marionette, CoffeeScript, and the USGS API.
-CoffeeScript | Marionette | jQuery | HTML | Skeleton
-Two APIs, One Form · GitHub
-Funny school group project done in an afternoon. Picks a gif and a song on Soundcloud related to the artist you type in (recommendations include Drake and Beyoncé).
-Rails 4 | Giphy API
-Photidian · GitHub
-The average laptop/desktop owner spends five hours per day in front of a computer screen.</description>
+      <description>The Floor is Lava
+A game made with Scratch. You play as a dinosaur that must jump from rock to rock in a lava field. If you take too long to jump to the next rock it&amp;rsquo;s game over.
+Fashion Barbarian · GitHub API · GitHub Front-End
+Tiny Clojure API that only has one endpoint. It returns up to 30 trendy fashion products from one of five randomly selected current trends.</description>
     </item>
     
     <item>
